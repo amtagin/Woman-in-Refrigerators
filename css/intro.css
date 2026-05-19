@@ -9,7 +9,7 @@
 }
 
 /* 영상 자체를 background-image처럼 사용 */
-.bg-video {
+.bg {
   position: absolute;
   inset: 0;
 
