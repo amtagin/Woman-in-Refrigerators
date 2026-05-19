@@ -10,15 +10,15 @@
 
 /* 영상 자체를 background-image처럼 사용 */
 #intro img {
-  /* position: absolute;
+ /* position: absolute;
   inset: 0;
 
   width: 100%;
   height: 100%;
 
-  object-fit: cover;
+  object-fit: cover; */
 
-  z-index: -999; */
+  z-index: -999;
 }
 
 #intro canvas {
