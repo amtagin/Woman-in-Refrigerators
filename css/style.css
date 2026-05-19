@@ -77,7 +77,7 @@ body {
 }
 
 /* 첫 이미지가 높이 기준이 되게 */
-.bg2 {
+.bg2, .bg1 {
   position: relative !important;
   display: block;
   width: 100%;
