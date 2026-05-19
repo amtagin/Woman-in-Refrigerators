@@ -17,9 +17,20 @@
   height: 100%;
 
   object-fit: cover; */
-
-  z-index: -999;
 }
+
+.bg1 {
+  position: absolute;
+  inset: 0;
+
+  width: 100%;
+  height: auto;
+
+  display: block;
+
+    z-index: -999;
+}
+
 
 #intro canvas {
   width: 100%;
