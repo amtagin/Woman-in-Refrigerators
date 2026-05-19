@@ -202,22 +202,22 @@ body {
 }
 
 #refreshStyle {
-  background: url(/image/style.svg) center center / contain no-repeat;
+  background: url(./image/style.svg) center center / contain no-repeat;
 
   left: -95%;
 }
 #refreshText {
-  background: url(/image/reset.svg) center center / contain no-repeat;
+  background: url(./image/reset.svg) center center / contain no-repeat;
 
   right: -95%;
 }
 
 #refreshStyle:hover {
-  background: url(/image/style_hover.svg) center center / contain no-repeat;
+  background: url(./image/style_hover.svg) center center / contain no-repeat;
 }
 
 #refreshText:hover {
-  background: url(/image/reset_hover.svg) center center / contain no-repeat;
+  background: url(./image/reset_hover.svg) center center / contain no-repeat;
 }
 
 #textInput {
