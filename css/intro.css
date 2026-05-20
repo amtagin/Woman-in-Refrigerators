@@ -17,16 +17,17 @@
 
 /* 영상 자체를 background-image처럼 사용 */
 
+.intro-bg {
+  position: relative;
+  width: 100%;
+}
+
 .bg1 {
-  position: absolute;
-  inset: 0;
+  position: relative;
+  display: block;
 
   width: 100%;
   height: auto;
-
-  display: block;
-
-  pointer-events: none;
 }
 
 #intro canvas {
