@@ -23,11 +23,17 @@
 }
 
 .bg1 {
-  position: relative;
-  display: block;
+  position: absolute;
 
   width: 100%;
   height: auto;
+
+  left: 50%;
+  top: 50%;
+
+  transform: translate(-50%, -50%);
+
+  pointer-events: none;
 }
 
 #intro canvas {
